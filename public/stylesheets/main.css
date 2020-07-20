@@ -1,0 +1,70 @@
+.pagination {
+    display: inline-block !important;
+    text-align : center;
+}
+.thumbnail img{
+	width:100%;
+	border: 1px solid black;
+}
+.thumbnail{
+	padding:0;
+}
+
+.card-body{
+	background: rgba(0,0,0,.03);
+	border: none
+	margin: auto;
+}
+
+.comment-card-body{
+	background: rgba(0,0,0,.03);
+	margin: auto;
+	border: none
+}
+
+
+.checked {
+    color: orange;
+}
+
+.comment-card-mb-3{
+	border: none;
+}
+
+.card{
+	border: 1px solid black;
+}
+.thumbnail .caption{
+	padding:9px;
+}
+
+.jumbotron .container h1{
+	font-family: Helvetica, sans-serif
+	font-weight: 900
+	color:black;
+}
+#landing{
+	font-family: 'Comic Neue', cursive;
+	font-size:100px;
+	color:purple;
+}
+#landing-2{
+	font-family: 'Comic Neue', cursive;
+	font-size:50px;
+}
+.jumbotron .container a {
+	color: white;
+}
+
+#delete-form{
+	display:inline;
+}
+#delete-comment{
+	display:inline;
+}
+#Edit-Button{
+	color:white;
+}
+.thumbnail .caption h4{
+	color:purple;
+}
